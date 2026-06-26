@@ -42,6 +42,9 @@ yarn-error.log*
 # Turbo
 .turbo
 
+# Claude Code skills cache (installed content; regenerable from skills-lock.json)
+.claude/skills/
+
 # vercel
 .vercel
 
